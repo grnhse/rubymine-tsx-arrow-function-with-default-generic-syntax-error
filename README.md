@@ -1,3 +1,10 @@
+# Reproduction
+
+This is a repo dedicated to reproducing an erroneous syntax error in rubymine (See [this ticket](https://youtrack.jetbrains.com/issue/RUBY-30760))
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
